@@ -1,0 +1,4 @@
+.nav ul li a.active {
+    background-color: #00afab;
+    color: white;
+}

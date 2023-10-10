@@ -1,0 +1,16 @@
+.ant-message{
+    top: 70px !important;
+}
+
+.signupPage .form label{
+    display: block;
+    margin-bottom: 30px;
+}
+
+.signupPage .form label input{
+    margin-bottom: 0;
+}
+
+.signupPage .form label span{
+    left: 0;
+}
